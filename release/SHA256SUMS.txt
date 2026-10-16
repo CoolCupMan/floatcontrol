@@ -1,1 +1,1 @@
-8f9d104c2dd671625e911ae5244444eab8561c4eff8f85b6d058fd1bd35e9668  FloatControl-1.0.0.exe
+68e6df4d9c6686a11ebbb532c9d24fcd85b2bb866051f7f69897a3e46ab1fcc5  FloatControl-1.0.0.exe
